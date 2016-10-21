@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica 5</string>
+    <string name="celsius">Celsius</string>
+    <string name="Cel">C</string>
+    <string name="Farenheit">Farenheit</string>
+    <string name="Far">F</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="kel">K</string>
+    <string name="convertir">Convertir</string>
+</resources>
